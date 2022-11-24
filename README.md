@@ -1,2 +1,3 @@
 # Uncensored Smartisan-notes
-replace the content in keywords.txt with Hindi in the asset of the apk
+- Replace the content in keywords.txt with Hindi in the asset of the apk
+- Insufficient: the encrypted keyword is not decrypted
