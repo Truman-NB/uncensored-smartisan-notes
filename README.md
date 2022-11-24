@@ -1,2 +1,2 @@
 # Uncensored Smartisan-notes
-remove the keywords.txt in the asset of the apk
+replace the content in keywords.txt in the asset of the apk
