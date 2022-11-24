@@ -1,2 +1,2 @@
 # Uncensored Smartisan-notes
-replace the content in keywords.txt in the asset of the apk
+replace the content in keywords.txt with Hindi in the asset of the apk
